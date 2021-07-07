@@ -1,5 +1,5 @@
 # Hi there, I'm Erik Colley
-[![Website](https://img.shields.io/badge/Website-erikcolley.ca-blue?style=flat-square)](https://erikcolley.ca) [![Contact](https://img.shields.io/badge/Contact-erik%40erikcolley.ca-blue?style=flat-square)](mailto:erik@erikcolley.ca)
+[![Website](https://img.shields.io/badge/Website-erikcolley.ca-blue?style=flat-square)](https://erikcolley.ca) [![Contact](https://img.shields.io/badge/Contact-erik%40erikcolley.ca-blue?style=flat-square)](mailto:erik@erikcolley.ca) [![Twitter](https://img.shields.io/badge/Twitter-%40erik__colley-blue?style=flat-square&logo=twitter)](https://twitter.com/erik_colley)
 ### About Me:
 I'm a Canadian student currently studying to enter the IT field, and programming is one of my hobbies. I've previously acted as the lead programmer for First Robotics Competition Team 6854, [Viking Robotics](https://github.com/frc6854), where I spearheaded the programming subteam's move to using Git & Github for version control to facilitate better collaboration between students. I've also developed numerous personal projects in my spare time.
 ### Some of my more notable projects:
